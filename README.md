@@ -34,7 +34,7 @@ Next follow the steps to learn more about amazon Alexa.
    * Start from scratch
    * Choose
 
-5. Go to github Url, then models/en-US.json
+5. Go to github Url, then "en-US.json"
    * Copy the code
 
 6. Go back to Alexa Developer console and click on "JSON Editor" in Build. Paste the code.
